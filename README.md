@@ -39,9 +39,13 @@ Change the color of the text alongside the background color
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+https://github.com/shivstaa/and101-project2-starter/assets/96287462/61769dea-8be6-48b2-83b4-a76ef4518103
+
+
+
+GIF created with **Android Studio Video Capture & Clipchamp**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
